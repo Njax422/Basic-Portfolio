@@ -85,7 +85,6 @@ li {
 	margin-left: 150px;
 	line-height: 1.5;
 	border: thin solid #dddddd;
-
 }
 
 #mypicture {
@@ -125,7 +124,6 @@ li {
 	padding-left: 20px;
 }
 
-
 fieldset {
 	margin: 0 0 10px;
 	min-width: 100%;
@@ -158,7 +156,6 @@ fieldset {
 	border: thin solid #dddddd;
 }
 
-
 .pimages {
 	height: 200px;
 	width: 300px;
@@ -166,7 +163,6 @@ fieldset {
 	position: relative;
 	z-index: 1;
 }
-
 
 .label {
 	color: #ffffff;
@@ -185,8 +181,6 @@ fieldset {
 	top: 50px;
 	: 50px;
 }
-
-
 
 footer {
 	background-color: #666666;
